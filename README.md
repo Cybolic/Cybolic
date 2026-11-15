@@ -6,7 +6,8 @@
 [![Bitbucket / cybolic](https://img.shields.io/badge/Bitbucket-cybolic-blue?logo=bitbucket)](https://bitbucket.org/Cybolic)
 [![Codeberg / cybolic](https://img.shields.io/badge/Codeberg-cybolic-blue?logo=codeberg)](https://codeberg.org/Cybolic)
 
-I've largely migrated away from GitHub following their string of security incidents, and their push towards claiming training rights over any repo, regardless of the choices set by the author.
+I've largely migrated away from GitHub following their string of security incidents, and their push towards illegally claiming training rights over any repo regardless of the choices set by the author.
+For more reasons why I don't consider GitHub friendly to developers, see [GiveUpGitHub.org](https://sfconservancy.org/GiveUpGitHub/).
 
 I work in web development (Full-stack and DevOps), and thoroughly enjoy using Nix for practically everything.
 
